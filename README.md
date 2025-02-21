@@ -97,7 +97,7 @@ You can preview the app here:
 
 ## 💰 Pricing Options
 - 1️⃣ **Basic Version - $9.99** → Includes only the source code, no support or updates.
-- 2️⃣ **Pro Version - $19.99** → Includes support, updates, and extra features like authentication.
+- 2️⃣ **Pro Version - $19.99** → Includes support, and extra updates!
 - 3️⃣ **Custom Development - $199.99+** → For businesses or developers who need feature modifications, UI changes, or integrations.
 
 📌 **One-time purchase, lifetime access!**
