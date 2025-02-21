@@ -67,6 +67,26 @@ A fully functional IPTV streaming application built using Flutter, supporting An
   
 </div>
 
+#### Android:
+<div class="row">
+  <div class="column">
+    <img src="" height="400"/>
+    
+   </div>
+  
+</div>
+
+
+#### WEB:
+<div class="row">
+  <div class="column">
+    <img src="" height="400"/>
+    
+   </div>
+  
+</div>
+
+
 ---
 
 ## 🎬 Demo
