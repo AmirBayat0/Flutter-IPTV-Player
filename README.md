@@ -91,7 +91,7 @@ A fully functional IPTV streaming application built using Flutter, supporting An
 
 ## 🎬 Demo
 You can preview the app here:
-- [Flutter IPTV Player]()
+- [It will publish soon from my Yotube channel For now You can refer to my Instagram channel](https://www.instagram.com/codewithflexz)
 
 ---
 
