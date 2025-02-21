@@ -26,11 +26,11 @@ A fully functional IPTV streaming application built using Flutter, supporting An
 - ✅ Powerful Search Functionality → Quickly find channels by name or category
 - ✅ Favorite Channels List → Save and access your most-watched channels easily
 - ✅ Advanced Categorization → Filter by:
-    - 🎮 Genres (Esports, Entertainment, News, Music, etc.)
+    - 🎮 Genres (sports, Entertainment, News, Music, etc.)
     - 🌍 Regions & Countries (USA, UK, France, etc.)
     - 🗣️ Languages (English, Spanish, French, etc.)
     - 🌍 Regions & Countries (USA, UK, France, etc.)
-✅ External IPTV Link Support → Play custom M3U playlists in an external player
+- ✅ External IPTV Link Support → Play custom M3U playlists in an external player
 
 # 🚀 Technologies Used
 #### This IPTV app is built using the latest cross-platform technologies to ensure smooth performance across Android, iOS, and Web.
