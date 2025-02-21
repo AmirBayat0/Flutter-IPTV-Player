@@ -42,7 +42,7 @@ A fully functional IPTV streaming application built using Flutter, supporting An
 
 ## 📸 Screenshots
 🚀 Preview how the app looks in action!
-IOS:
+#### IOS:
 <div class="row">
   <div class="column">
     <img src="https://github.com/user-attachments/assets/108a5c19-8e16-44d4-b6ad-8c60b1c20879" height="400"/>
@@ -56,10 +56,13 @@ IOS:
     <img src="https://github.com/user-attachments/assets/57089d01-3440-4acc-8516-6f65e5fea472" height="400"/>
     <img src="https://github.com/user-attachments/assets/4c037b59-b8b0-42bc-a42c-53ed8a03b017" height="400"/>
     <img src="https://github.com/user-attachments/assets/fc33415d-a204-48ea-b085-1464d0852745" height="400"/>
-    <img src="" height="400"/>
-    <img src="" height="400"/>
- 
-
+    <img src="https://github.com/user-attachments/assets/edb3e26e-474e-4cb9-a461-0fe7948cb839" height="400"/>
+    <img src="https://github.com/user-attachments/assets/30db4a1d-7183-4d10-b4f9-cc7eec8ba809" height="400"/>
+    <img src="https://github.com/user-attachments/assets/81c1dbe6-8605-4e44-9684-c082e069da89" height="400"/>
+    <img src="https://github.com/user-attachments/assets/898de6da-c9ef-4062-b152-5e179608a435" height="400"/>
+    <img src="https://github.com/user-attachments/assets/84794ba1-aa36-4f2a-9911-d77f8ebf9f3d" height="400"/>
+    <img src="https://github.com/user-attachments/assets/702c1e82-bd7e-4cd9-a741-cd9f88afb9a6" height="400"/>
+    <img src="https://github.com/user-attachments/assets/bce1a980-fbe2-456b-ab0d-1790420e0182" height="400"/>
    </div>
   
 </div>
