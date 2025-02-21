@@ -53,54 +53,54 @@ Which technologies are used?
 * GetX (State Management) – For better performance
   
 Does it support Chromecast or AirPlay?
-Currently, Chromecast and AirPlay are not included, but you can integrate them manually with Flutter plugins.
+* Currently, Chromecast and AirPlay are not included, but you can integrate them manually with Flutter plugins.
 
-9️⃣ Can I customize the UI?
-Yes! The UI is fully customizable using Flutter’s flexible widget system.
+Can I customize the UI?
+* Yes! The UI is fully customizable using Flutter’s flexible widget system.
 
-🔟 Can I add ads (AdMob, Unity Ads, etc.)?
-Yes! You can integrate Google AdMob, Unity Ads, or any other ad network to monetize your IPTV app.
+Can I add ads (AdMob, Unity Ads, etc.)?
+* Yes! You can integrate Google AdMob, Unity Ads, or any other ad network to monetize your IPTV app.
 
 ### 🔹 Purchase & Licensing
-1️⃣1️⃣ What do I get when I buy the source code?
-You will receive:
+What do I get when I buy the source code?
+* You will receive:
+* Complete Flutter source code
+* Documentation for setup
+* Free future updates & Bug fixes
+  
+What are the available pricing options?
+* Basic Version - $9.99 → Includes only the source code, no support or updates.
+* Pro Version - $19.99 → Includes support, updates, and extra features like authentication.
+* Custom Development - $199.99+ → For businesses or developers who need feature modifications, UI changes, or integrations.
 
-Complete Flutter source code
-Documentation for setup
-Free future updates
-1️⃣2️⃣ How much does the source code cost?
-The price is $9.99 for the basic version, with an option to get premium support for an additional cost.
+Where can I buy the source code?
+* You can purchase it directly on [BuyMeACoffe]() and get instant download access.
 
-1️⃣3️⃣ Where can I buy the source code?
-You can purchase it directly on Ko-fi and get instant download access.
+Is there a refund policy?
+* No, due to the nature of digital products, all sales are final, and refunds are not available.
 
-1️⃣4️⃣ Is there a refund policy?
-No, due to the nature of digital products, all sales are final, and refunds are not available.
+Can I resell this app after buying it?
+* No, reselling or redistributing the source code is strictly prohibited.
 
-1️⃣5️⃣ Can I resell this app after buying it?
-No, reselling or redistributing the source code is strictly prohibited.
+### 🔹 Customization & Support
+Can you help me customize the app?
+* Yes! I offer customization services. Contact me via email, telegram, or Insgrtram for pricing.
 
-🔹 Customization & Support
-1️⃣6️⃣ Can you help me customize the app?
-Yes! I offer customization services. Contact me on Ko-fi or email me for pricing.
+Can I request new features?
+* Yes! If you need additional features, custom development is available for an extra fee.
 
-1️⃣7️⃣ Can I request new features?
-Yes! If you need additional features, custom development is available for an extra fee.
+Will I get updates after purchasing?
+* Yes, you will get lifetime updates for any improvements or bug fixes.
 
-1️⃣8️⃣ Will I get updates after purchasing?
-Yes, you will get lifetime updates for any improvements or bug fixes.
+What if I face issues setting it up?
+* The setup is beginner-friendly, but if you face issues, you can refer to the documentation or contact me.
 
-1️⃣9️⃣ What if I face issues setting it up?
-The setup is beginner-friendly, but if you face issues, you can refer to the documentation or contact me.
-
-2️⃣0️⃣ Can I use this app for commercial purposes?
-Yes! You can use this app for your own IPTV business but cannot resell the source code itself.
-
+Can I use this app for commercial purposes?
+* Yes! You can use this app for your own IPTV business but cannot resell the source code itself.
 
 
 # 📢 SEO Keywords (For Search Optimization)
 IPTV Flutter App, Live TV Streaming App, Flutter IPTV App, IPTV Source Code, IPTV Player, Android IPTV App, iOS IPTV App, Web IPTV Streaming, IPTV App for Sale, Flutter M3U8 Player, Buy IPTV Source Code, IPTV App with Country Filter, IPTV App with Language Support, IPTV App for Android and iOS
-
 
 
 # 📬 Contact & Support
