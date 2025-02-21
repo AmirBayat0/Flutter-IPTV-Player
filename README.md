@@ -13,7 +13,6 @@ A fully functional IPTV streaming application built using Flutter, supporting An
 - 💡 **Easy Customization** – Modify channels, UI, and features effortlessly.
 - 🏗️ **Well-Documented Code** – Clean and structured for easy modifications.
 - 💰 **Affordable Pricing** – High-quality IPTV solution at the best value.
-- 📢 **SEO Optimized** – Designed for search engine visibility to attract potential buyers.
 
 ---
 
