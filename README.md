@@ -24,7 +24,7 @@ A fully functional IPTV streaming application built using Flutter, supporting An
     - 🌍 **Regions & Countries** (USA, UK, France, etc.)
     - 🗣️ **Languages** (English, Spanish, French, etc.)
 - ✅ **Modern UI** – Clean and simple design
-- ✅ **Search Functionality** – Find channels quickly by name or category
+- ✅ **Search Functionality** – Find channels quickly by name
 - ✅ **Favorites List** – Save and access frequently watched channels
 - ✅ **External IPTV Link Support** – Play custom M3U playlists in an external player
 
@@ -36,7 +36,7 @@ A fully functional IPTV streaming application built using Flutter, supporting An
 - 🔹 **Dart** – Optimized for fast, efficient app development
 - ⚡ **GetX** – Lightweight and powerful state management
 - 🌐 **HTTP** – For fetching and parsing M3U playlists
-- 🎥 **Video_Player** – Handles video playback with HLS (.m3u8) and RTMP streaming support
+- 🎥 **Video_Player** – Handles video playback with HLS and RTMP streaming support
 
 ---
 
