@@ -20,7 +20,7 @@ Our fully functional **IPTV Player** is designed to deliver a **seamless, high-q
 
 🚀 **This is more than just an app—it's a complete IPTV solution that will elevate your streaming experience to the next level!** 🚀
 
-👉 [Get the Source Code on Now]([buymeacoffee.com/AmirBayat](https://buymeacoffee.com/amirbayat/extras))
+👉 [Get the Source Code](https://buymeacoffee.com/amirbayat/extras)
 
 ---
 
@@ -156,9 +156,9 @@ You can preview the app here:
 ---
 
 ## 💰 Pricing Options
-- 1️⃣ **Basic Version - $9.99** → Includes only the source code, no support or updates.
-- 2️⃣ **Pro Version - $19.99** → Includes support, and extra updates!
-- 3️⃣ **Custom Development - $199.99+** → For businesses or developers who need feature modifications, UI changes, or integrations.
+- 1️⃣ **Basic Version - $9.99** → Includes only the source code, no support or updates. [Basic Version](https://buymeacoffee.com/amirbayat/e/377254)
+- 2️⃣ **Pro Version - $19.99** → Includes support, and extra updates! [Pro Version](https://buymeacoffee.com/amirbayat/e/377259)
+- 3️⃣ **Custom Development - $199.99+** → For businesses or developers who need feature modifications, UI changes, or integrations. [Contact me](mailto:amirbayat.dev@gmail.com)
 
 📌 **One-time purchase, lifetime access!**
 
