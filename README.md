@@ -101,7 +101,28 @@ A fully functional IPTV streaming application built using Flutter, supporting An
 #### WEB:
 <div class="row">
   <div class="column">
-    <img src="" height="400"/>
+    <img src="https://github.com/user-attachments/assets/4a7e1930-df1a-4dfd-af83-92ffb812ce4f" height="400"/>
+    <img src="https://github.com/user-attachments/assets/f2fe7403-6e3e-49de-91d7-bcf958c272fc" height="400"/>
+    <img src="https://github.com/user-attachments/assets/1d160ad8-5505-4c1d-b5a5-00b01c673165" height="400"/>
+    <img src="https://github.com/user-attachments/assets/33988d33-4e48-4a9a-9f2e-7595581bd101" height="400"/>
+    <img src="https://github.com/user-attachments/assets/96581778-e813-4c4f-bbd5-b0e5f6856f1d" height="400"/>
+    <img src="https://github.com/user-attachments/assets/b4bf26a2-0e14-4881-933a-6b0050b73366" height="400"/>
+    <img src="https://github.com/user-attachments/assets/8dfe8354-9c5a-4c8a-8c0e-d788bab8ff65" height="400"/>
+    <img src="https://github.com/user-attachments/assets/2527ede6-1f68-4da0-84fd-e373d76cd34f" height="400"/>
+    <img src="https://github.com/user-attachments/assets/5d92fa9a-b0ab-425a-ad20-b8bce3539bd3" height="400"/>
+    <img src="https://github.com/user-attachments/assets/1c58e98a-717f-4e4d-8063-953b7fb25601" height="400"/>
+    <img src="https://github.com/user-attachments/assets/cfd95876-ef2a-4665-8ebd-e61519d4910d" height="400"/>
+    <img src="https://github.com/user-attachments/assets/749d3668-7358-4cfd-ab7c-56932676aa0a" height="400"/>
+    <img src="https://github.com/user-attachments/assets/94e350b2-269a-4b54-be62-42beacb3f6d2" height="400"/>
+    <img src="https://github.com/user-attachments/assets/d0bf0804-7efc-4865-b6d0-d3f223475459" height="400"/>
+    <img src="https://github.com/user-attachments/assets/b6c6b948-0d68-46d6-a801-625bd583b396" height="400"/>
+    <img src="https://github.com/user-attachments/assets/d84d9eaa-2911-4905-ac23-c9e20d120f62" height="400"/>
+    <img src="https://github.com/user-attachments/assets/a5c3e8c2-a84a-4135-be61-c806f53d186d" height="400"/>
+    <img src="https://github.com/user-attachments/assets/5f013a07-e47d-4957-a8e9-0928be80aeb2" height="400"/>
+    <img src="https://github.com/user-attachments/assets/80880e8b-9e5b-44ef-b409-3969319ec92f" height="400"/>
+    <img src="https://github.com/user-attachments/assets/692e8052-7d0f-4e4e-b76e-5fe7434a8586" height="400"/>
+    <img src="https://github.com/user-attachments/assets/c69d1d9c-059e-4cdb-ba30-0c99dc8925be" height="400"/>
+    <img src="https://github.com/user-attachments/assets/fec2436d-cc80-48c0-9fe4-825b7518d76c" height="400"/>
     
    </div>
   
