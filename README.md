@@ -204,7 +204,7 @@ You can preview the app here:
   - Free future updates & bug fixes
 
 **Where can I buy the source code?**
-* You can purchase it directly on [BuyMeACoffee]() and get instant download access.
+* You can purchase it directly on [BuyMeACoffee](https://buymeacoffee.com/amirbayat/extras) and get instant download access.
 
 **Is there a refund policy?**
 * No, due to the nature of digital products, all sales are final, and refunds are not available.
