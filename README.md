@@ -20,7 +20,7 @@ Our fully functional **IPTV Player** is designed to deliver a **seamless, high-q
 
 🚀 **This is more than just an app—it's a complete IPTV solution that will elevate your streaming experience to the next level!** 🚀
 
-👉 [Buy the Source Code on BuyMeACoffee](buymeacoffee.com/AmirBayat)
+👉 [Get the Source Code on Now]([buymeacoffee.com/AmirBayat](https://buymeacoffee.com/amirbayat/extras))
 
 ---
 
@@ -150,7 +150,8 @@ Our fully functional **IPTV Player** is designed to deliver a **seamless, high-q
 
 ## 🎬 Demo
 You can preview the app here:
-- [It will publish soon from my Yotube channel For now You can refer to my Instagram](https://www.instagram.com/codewithflexz)
+- 🎥 Coming Soon on My YouTube Channel! 🚀
+** For now, stay updated and check out my latest content on Instagram [@codewithflexz!](https://www.instagram.com/codewithflexz) 📲🔥
 
 ---
 
