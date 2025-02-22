@@ -13,7 +13,7 @@ Our fully functional **IPTV Player** is designed to deliver a **seamless, high-q
 ✔️ **Multi-Platform Support** – One app, three platforms: **Android, iOS, and Web!**  
 ✔️ **Lightning-Fast & User-Friendly** – Optimized for **performance and smooth playback.**  
 ✔️ **M3U Playlist Support** – Load and manage your IPTV playlists effortlessly.  
-✔️ **Favorites & History** – Save your favorite channels for quick access.  
+✔️ **Favorites** – Save your favorite channels for quick access.  
 ✔️ **Custom Themes & UI Personalization** – Tailor the look and feel to match your brand.  
 
 💡 **Ready to launch your own IPTV app?** Get the **full source code** and start your **IPTV streaming business today!** 💰  
