@@ -173,7 +173,7 @@ You can preview the app here:
 * Yes! The app is a complete IPTV streaming solution, including category-based filtering, smooth video playback, and a modern UI.
 
 **Does this app include channels?**
-* No, this app does not provide IPTV channels. You can add your own M3U playlists or streaming URLs.
+* Yest, this app does provide IPTV channels. And Also You can add your own M3U playlists or streaming URLs.
 
 **Do I need a server for this app?**
 * No, this is a client-side app. It fetches streams from M3U8 links or other IPTV sources without requiring a backend.
